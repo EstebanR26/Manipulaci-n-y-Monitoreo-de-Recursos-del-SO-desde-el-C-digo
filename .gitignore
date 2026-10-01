@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+env/
+*.txt~
+archivo_grande_prueba.txt
+alertas_ram.txt
